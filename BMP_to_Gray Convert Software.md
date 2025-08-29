@@ -1,8 +1,7 @@
-# BMP 이미지 그레이스케일 AND 그레이스케일 to 소벨 필터 변환 소프트웨어
-[brainct_001.bmp](https://github.com/user-attachments/files/22040141/brainct_001.bmp)
-[output_grayscale.bmp](https://github.com/user-attachments/files/22040136/output_grayscale.bmp)
-[output_edge.bmp](https://github.com/user-attachments/files/22040144/output_edge.bmp)
-<img width="630" height="630" alt="output_grayscale" src="https://github.com/user-attachments/assets/6a6cfc0b-f639-4d7c-bf65-c2c71268e7da" />
+# BMP to Grayscale / Grayscale to Sobel filter Convert Software
+<img width="630" height="630" alt="brainct_001" src="https://github.com/user-attachments/assets/f5ba7d69-bd7c-41cd-8f02-a3057cea2617" />
+<img width="630" height="630" alt="output_grayscale" src="https://github.com/user-attachments/assets/1ba170b4-ef9c-4b95-9b94-f3ab6447f288" />
+<img width="630" height="630" alt="output_edge" src="https://github.com/user-attachments/assets/89164f39-d080-4f3c-9885-9b015d7eb700" />
 
 ## 📑 문서 관리 정보
 
