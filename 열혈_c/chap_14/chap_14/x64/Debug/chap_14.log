@@ -1,0 +1,3 @@
+﻿  chap_14_2_ex_2.c
+C:\Users\50\Desktop\c_lang\chap_14\chap_14\chap_14_2_ex_2.c(5,7): warning C4090: '초기화 중': 다른 'const' 한정자
+  chap_14.vcxproj -> C:\Users\50\Desktop\c_lang\chap_14\x64\Debug\chap_14.exe

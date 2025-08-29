@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\50\\Desktop\\c_lang\\chap_14\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4780173-E3D8-4672-9666-70C776B52F7D}|chap_14\\chap_14.vcxproj|C:\\Users\\50\\Desktop\\c_lang\\chap_14\\chap_14\\chap_14_2_ex_2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E4780173-E3D8-4672-9666-70C776B52F7D}|chap_14\\chap_14.vcxproj|solutionrelative:chap_14\\chap_14_2_ex_2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "chap_14_2_ex_2.c",
+              "DocumentMoniker": "C:\\Users\\50\\Desktop\\c_lang\\chap_14\\chap_14\\chap_14_2_ex_2.c",
+              "RelativeDocumentMoniker": "chap_14\\chap_14_2_ex_2.c",
+              "ToolTip": "C:\\Users\\50\\Desktop\\c_lang\\chap_14\\chap_14\\chap_14_2_ex_2.c",
+              "RelativeToolTip": "chap_14\\chap_14_2_ex_2.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-20T13:06:16.269Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
