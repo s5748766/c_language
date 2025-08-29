@@ -1,5 +1,5 @@
 # BMP to Grayscale / Grayscale to Sobel filter Convert Software
-## Origin            >>>>>>>>>>>>>            Grayscale            >>>>>>>>>>>>>>            Soble filter
+## Origin            >>>>>>>>>>>>>            Grayscale            >>>>>>>>>>>>            Soble filter
 <img width="300" height="300" alt="brainct_001" src="https://github.com/user-attachments/assets/f5ba7d69-bd7c-41cd-8f02-a3057cea2617" />
 <img width="300" height="300" alt="output_grayscale" src="https://github.com/user-attachments/assets/1ba170b4-ef9c-4b95-9b94-f3ab6447f288" />
 <img width="300" height="300" alt="output_edge" src="https://github.com/user-attachments/assets/89164f39-d080-4f3c-9885-9b015d7eb700" />
