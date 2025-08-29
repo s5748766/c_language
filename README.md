@@ -1,5 +1,5 @@
 # BMP 이미지 그레이스케일 변환 소프트웨어
-<img width="320" height="320" alt="brainct_001" src="https://github.com/user-attachments/assets/597b2e68-93a0-41ed-8a5d-0c4c8e9ca034" />
+<img width="320" height="320" alt="brainct_001" src="https://github.com/s5748766/c_language/blob/main/brainct_001.bmp" />
 
 ## 📑 문서 관리 정보
 
