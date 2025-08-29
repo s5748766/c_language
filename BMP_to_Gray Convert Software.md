@@ -2,6 +2,7 @@
 [brainct_001.bmp](https://github.com/user-attachments/files/22040141/brainct_001.bmp)
 [output_grayscale.bmp](https://github.com/user-attachments/files/22040136/output_grayscale.bmp)
 [output_edge.bmp](https://github.com/user-attachments/files/22040144/output_edge.bmp)
+<img width="630" height="630" alt="output_grayscale" src="https://github.com/user-attachments/assets/6a6cfc0b-f639-4d7c-bf65-c2c71268e7da" />
 
 ## 📑 문서 관리 정보
 
