@@ -141,6 +141,17 @@
     -   한 줄당 하나의 명령문  
     -   충분한 주석 작성
 
+'''c
+typedef struct {
+    uint16_t type;        // 파일 형식 (BM)
+    uint32_t size;        // 파일 크기
+    uint16_t reserved1;   // 예약된 필드
+    uint16_t reserved2;   // 예약된 필드
+    uint32_t offset;      // 이미지 데이터 시작 위치
+} BMPFileHeader;
+'''
+
+
 ### 4.2 품질 기준
 
 -   가독성: 명확한 변수명, 주석 포함  
