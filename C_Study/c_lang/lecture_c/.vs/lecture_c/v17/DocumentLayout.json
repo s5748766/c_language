@@ -19,6 +19,7 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
+          "DockedWidth": 200,
           "SelectedChildIndex": -1,
           "Children": [
             {
@@ -29,8 +30,21 @@
         },
         {
           "DockedWidth": 2,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lecture_c.c",
+              "DocumentMoniker": "C:\\Users\\50\\Desktop\\c_language\\C_Study\\c_lang\\lecture_c\\lecture_c\\lecture_c.c",
+              "RelativeDocumentMoniker": "lecture_c\\lecture_c.c",
+              "ToolTip": "C:\\Users\\50\\Desktop\\c_language\\C_Study\\c_lang\\lecture_c\\lecture_c\\lecture_c.c",
+              "RelativeToolTip": "lecture_c\\lecture_c.c",
+              "ViewState": "AgIAAKcBAAAAAAAAAABiwMQBAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-29T01:45:52.776Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -41,8 +55,7 @@
               "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\ucrt\\stdlib.h",
               "ViewState": "AgIAAKgEAAAAAAAAAAAtwLoEAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-08-29T03:18:57.82Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-29T03:18:57.82Z"
             },
             {
               "$type": "Document",
@@ -54,21 +67,7 @@
               "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\ucrt\\time.h",
               "ViewState": "AgIAABEAAAAAAAAAAAAtwB0AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-08-29T03:19:12.647Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "lecture_c.c",
-              "DocumentMoniker": "C:\\Users\\50\\Desktop\\c_language\\C_Study\\c_lang\\lecture_c\\lecture_c\\lecture_c.c",
-              "RelativeDocumentMoniker": "lecture_c\\lecture_c.c",
-              "ToolTip": "C:\\Users\\50\\Desktop\\c_language\\C_Study\\c_lang\\lecture_c\\lecture_c\\lecture_c.c",
-              "RelativeToolTip": "lecture_c\\lecture_c.c",
-              "ViewState": "AgIAALABAAAAAAAAAAAAAMQBAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-29T01:45:52.776Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-29T03:19:12.647Z"
             }
           ]
         }
