@@ -1,0 +1,59 @@
+// bmp file > grayscale
+typedef struct {
+    uint16_t type;        // 파일 형식 (BM)
+    uint32_t size;        // 파일 크기
+    uint16_t reserved1;   // 예약된 필드
+    uint16_t reserved2;   // 예약된 필드
+    uint32_t offset;      // 이미지 데이터 시작 위치
+} BMPFileHeader;
+
+//42 4D --> ASCII ??
+//4E 30 12 00 -> 1192014 =
+//    1픽셀 = 3바이트 → 한 행(raw) = 630×3 = 1890 bytes
+//    행 패딩: 4의 배수 맞추기 → 1890 % 4 = 2 → 패딩 2바이트
+//    한 행 총 1892 bytes × 630행 = 1,191,960 bytes (이미지 크기 필드와 일치)
+//    헤더 54 + 이미지 1,191,960 = 1,192,014 bytes (파일 크기 필드와도 일치)
+//00 00
+//00 00
+//36 00 00 00
+
+typedef struct {
+    uint32_t size;        // 헤더 크기
+    int32_t width;        // 이미지 너비
+    int32_t height;       // 이미지 높이
+    uint16_t planes;      // 색상 평면 수
+    uint16_t bitCount;    // 픽셀당 비트 수
+    uint32_t compression; // 압축 형식
+    uint32_t sizeImage;   // 이미지 데이터 크기
+    int32_t xPelsPerMeter;// 수평 해상도
+    int32_t yPelsPerMeter;// 수직 해상도
+    uint32_t clrUsed;     // 사용된 색상 수
+    uint32_t clrImportant;// 중요한 색상 수
+} BMPInfoHeader;
+
+28 00 00 00
+//76 02 00 00 //630
+//76 02 00 00 //630
+01 00
+18 00
+00 00 00 00
+18 30 12 00
+13 0B 00 00
+13 0B 00 00
+00 00 00 00
+00 00 00 00
+
+typedef struct {
+    uint8_t blue;
+    uint8_t green;
+    uint8_t red;
+} RGB;
+
+00 00 00 / 00 00 00 / 00 00 00
+00 00 00 / 00 00 00 / 00 00 00
+00 00 00 / 00 00 00 / 00 00 00
+.....
+....
+....
+...
+..
