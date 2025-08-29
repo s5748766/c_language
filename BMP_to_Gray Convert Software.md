@@ -1,5 +1,6 @@
 # BMP 이미지 그레이스케일 변환 소프트웨어
-<img width="320" height="320" alt="brainct_001" src="https://github.com/s5748766/c_language/blob/main/brainct_001.bmp" />
+[brainct_001.bmp](https://github.com/user-attachments/files/22040141/brainct_001.bmp)
+[output_grayscale.bmp](https://github.com/user-attachments/files/22040136/output_grayscale.bmp)
 
 ## 📑 문서 관리 정보
 
